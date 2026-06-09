@@ -1,0 +1,7 @@
+{
+  "name": "Dynamic Placeholders",
+  "description": "Automatically replaces {0} with the contacter's name and {1} with the support agent's nickname.",
+  "version": "1.0.0",
+  "author": "simmsalexdream-lang",
+  "main": "dynamic_placeholders"
+}
