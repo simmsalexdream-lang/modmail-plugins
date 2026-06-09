@@ -1,7 +1,10 @@
 {
-  "name": "Dynamic Placeholders",
-  "description": "Automatically replaces {0} with the contacter's name and {1} with the support agent's nickname.",
-  "version": "1.0.0",
-  "author": "simmsalexdream-lang",
-  "main": "dynamic_placeholders"
+  "dynamic_placeholders": {
+    "repository": "simmsalexdream-lang/modmail-plugins",
+    "branch": "main",
+    "description": "Replaces {0} with the recipient name and {1} with the agent nickname.",
+    "version": "1.0.0",
+    "title": "Dynamic Placeholders",
+    "main": "dynamic_placeholders"
+  }
 }
